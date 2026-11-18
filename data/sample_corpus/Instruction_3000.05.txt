@@ -1,0 +1,28 @@
+ID: Instruction 3000.05
+NPA Instruction 3000.05, AI Workforce
+
+1. PURPOSE
+
+This Instruction implements Directive 3000.01 by establishing procedures for ai workforce. Questions about this Instruction should be directed to the CAIO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Each AI use case must be recorded in the agency AI use case inventory and updated annually. Model performance must be monitored for drift and for disparities across demographic groups. High-impact AI requires pre-deployment testing, an impact assessment, and ongoing monitoring. The Chief AI Officer coordinates the use of artificial intelligence across NPA.
+
+4. RESPONSIBILITIES
+
+The Chief AI Officer (CAIO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance.
+
+5. PROCEDURES
+
+The AI Governance Board meets monthly and records its decisions in the governance register. Operators complete training on interpreting model outputs before receiving system access. Project teams document testing results and residual risks in the AI impact assessment. The CAIO screens each intake against the categories of AI presumed to be high-impact.
+
+REFERENCES
+
+(a) Directive 3000.01
+(b) Executive Order 13960
+(c) Instruction 3000.03

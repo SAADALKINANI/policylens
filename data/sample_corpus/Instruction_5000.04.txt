@@ -1,0 +1,28 @@
+ID: Instruction 5000.04
+NPA Instruction 5000.04, Contract Administration
+
+1. PURPOSE
+
+This Instruction implements Directive 5000.01 by establishing procedures for contract administration. Questions about this Instruction should be directed to the SPE office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Conflicts of interest must be disclosed by all members of a technical evaluation panel. Acquisition plans are required for all procurements above the simplified acquisition threshold. Source selection decisions must be documented and based only on the evaluation criteria in the solicitation. Market research shall be conducted before issuing any solicitation.
+
+4. RESPONSIBILITIES
+
+The Senior Procurement Executive (SPE) oversees implementation of this issuance and monitors compliance across NPA. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance. The Office of Inspector General (OIG) may audit compliance with this issuance.
+
+5. PROCEDURES
+
+Contract files are closed out within the timeframes set by regulation. CORs review deliverables and certify invoices for payment. The technical evaluation panel rates each proposal against the stated evaluation factors. The Contracting Officer (CO) negotiates terms and awards the contract.
+
+REFERENCES
+
+(a) Directive 5000.01
+(b) 48 CFR 1.101
+(c) Instruction 5000.02

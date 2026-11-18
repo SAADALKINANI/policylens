@@ -1,0 +1,26 @@
+ID: Directive 6000.01
+NPA Directive 6000.01, Telework and Workforce Flexibilities
+
+1. PURPOSE
+
+This Directive establishes policy and assigns responsibilities for the telework and workforce flexibilities program of the National Public Administration (NPA) in accordance with Public Law 111-292, 5 U.S.C. 6502, 5 CFR 610. It is implemented by Instruction 6000.02, Instruction 6000.03, Instruction 6000.04 and Manual 6000.10.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the National Public Administration (NPA), including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Telework eligibility is based on the duties of the position, not on the individual employee. Remote work agreements change an employee's official duty station and require approval by the CHCO. Employees in eligible positions may telework under a written telework agreement. Telework does not change the terms and conditions of employment or pay entitlements beyond locality. Supervisors may terminate a telework agreement for documented performance or conduct reasons. Employees who telework must be available during core hours and protect government information at home.
+
+4. RESPONSIBILITIES
+
+The Chief Human Capital Officer (CHCO) oversees implementation of this issuance and monitors compliance across NPA. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance.
+
+REFERENCES
+
+(a) Public Law 111-292
+(b) 5 U.S.C. 6502
+(c) 5 CFR 610
+(d) Directive 5000.01
+(e) Directive 7000.01

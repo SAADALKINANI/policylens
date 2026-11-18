@@ -1,0 +1,28 @@
+ID: Instruction 2000.04
+NPA Instruction 2000.04, Email Management
+
+1. PURPOSE
+
+This Instruction implements Directive 2000.01 by establishing procedures for email management. Questions about this Instruction should be directed to the ARO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Unauthorized removal or destruction of federal records must be reported to the Agency Records Officer. Permanent records are transferred to the National Archives when they reach the end of their agency retention period. Every NPA employee is responsible for creating and maintaining records that document agency business. Records in messaging applications must be captured into an official recordkeeping system within 20 days.
+
+4. RESPONSIBILITIES
+
+The Agency Records Officer (ARO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance. The Office of Inspector General (OIG) may audit compliance with this issuance.
+
+5. PROCEDURES
+
+Records liaisons inventory the records held by their office each fiscal year. Supervisors confirm that departing staff have transferred records to a successor custodian. The ARO coordinates proposed schedules with the Office of General Counsel (OGC). Offices transfer eligible permanent records using the electronic transfer process.
+
+REFERENCES
+
+(a) Directive 2000.01
+(b) OMB M-23-07
+(c) Instruction 2000.03

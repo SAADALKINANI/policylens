@@ -1,0 +1,28 @@
+ID: Instruction 3000.04
+NPA Instruction 3000.04, Generative AI Use
+
+1. PURPOSE
+
+This Instruction implements Directive 3000.01 by establishing procedures for generative ai use. Questions about this Instruction should be directed to the CAIO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+High-impact AI requires pre-deployment testing, an impact assessment, and ongoing monitoring. Model performance must be monitored for drift and for disparities across demographic groups. Individuals affected by AI-enabled decisions shall have access to timely human review and an appeal process. An AI Governance Board reviews high-impact determinations and waivers.
+
+4. RESPONSIBILITIES
+
+The Chief AI Officer (CAIO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance.
+
+5. PROCEDURES
+
+Program offices submit an AI intake form to the CAIO before acquiring or developing an AI capability. Project teams document testing results and residual risks in the AI impact assessment. The CAIO screens each intake against the categories of AI presumed to be high-impact. Operators complete training on interpreting model outputs before receiving system access.
+
+REFERENCES
+
+(a) Directive 3000.01
+(b) OMB M-25-21
+(c) Instruction 3000.02

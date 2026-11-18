@@ -1,0 +1,27 @@
+ID: Instruction 6000.02
+NPA Instruction 6000.02, Telework Eligibility
+
+1. PURPOSE
+
+This Instruction implements Directive 6000.01 by establishing procedures for telework eligibility. Questions about this Instruction should be directed to the CHCO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Employees in eligible positions may telework under a written telework agreement. Supervisors may terminate a telework agreement for documented performance or conduct reasons. During emergencies, telework-ready employees are expected to continue working from an alternate location. Remote work agreements change an employee's official duty station and require approval by the CHCO.
+
+4. RESPONSIBILITIES
+
+The Chief Human Capital Officer (CHCO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Office of Inspector General (OIG) may audit compliance with this issuance.
+
+5. PROCEDURES
+
+The employee completes telework training and submits a telework agreement to the supervisor. Supervisors review telework agreements at least annually. Requests for remote work are routed through the CHCO with a cost analysis. The Office of Human Capital reports telework participation data to the Office of Personnel Management.
+
+REFERENCES
+
+(a) Directive 6000.01
+(b) Public Law 111-292

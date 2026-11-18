@@ -1,0 +1,28 @@
+ID: Manual 1000.10
+NPA Manual 1000.10, Cybersecurity Procedures Manual
+
+1. PURPOSE
+
+This Manual provides step-by-step procedures for carrying out Directive 1000.01 and the related instructions Instruction 1000.02, Instruction 1000.03.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Privileged access must be granted on a least-privilege basis and reviewed every quarter. Continuous monitoring data will be reviewed monthly by the Authorizing Official (AO). Security incidents must be reported to the Security Operations Center (SOC) within one hour of discovery.
+
+4. RESPONSIBILITIES
+
+The Chief Information Security Officer (CISO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance.
+
+5. PROCEDURES
+
+The system owner prepares a security plan and submits it to the Authorizing Official. Access reviews are recorded and retained for audit purposes. Account managers disable inactive accounts after 45 days without use. The SOC triages each reported incident, assigns a severity level, and notifies affected offices. Vulnerability scans run weekly and results are uploaded to the agency dashboard. After an incident is contained, the response team documents lessons learned within 30 days.
+
+REFERENCES
+
+(a) Directive 1000.01
+(b) Instruction 1000.02
+(c) Instruction 1000.03

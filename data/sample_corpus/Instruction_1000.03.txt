@@ -1,0 +1,28 @@
+ID: Instruction 1000.03
+NPA Instruction 1000.03, Incident Response
+
+1. PURPOSE
+
+This Instruction implements Directive 1000.01 by establishing procedures for incident response. Questions about this Instruction should be directed to the CISO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Multifactor authentication is required for every user account with access to agency networks. Zero trust architecture principles guide the design of all new network services. Privileged access must be granted on a least-privilege basis and reviewed every quarter. Continuous monitoring data will be reviewed monthly by the Authorizing Official (AO).
+
+4. RESPONSIBILITIES
+
+The Chief Information Security Officer (CISO) oversees implementation of this issuance and monitors compliance across NPA. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance.
+
+5. PROCEDURES
+
+After an incident is contained, the response team documents lessons learned within 30 days. Vulnerability scans run weekly and results are uploaded to the agency dashboard. The SOC triages each reported incident, assigns a severity level, and notifies affected offices. Access reviews are recorded and retained for audit purposes.
+
+REFERENCES
+
+(a) Directive 1000.01
+(b) OMB M-22-09
+(c) Instruction 1000.05

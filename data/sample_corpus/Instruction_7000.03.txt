@@ -1,0 +1,28 @@
+ID: Instruction 7000.03
+NPA Instruction 7000.03, Occupant Emergency Plans
+
+1. PURPOSE
+
+This Instruction implements Directive 7000.01 by establishing procedures for occupant emergency plans. Questions about this Instruction should be directed to the DEM office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Orders of succession and delegations of authority are maintained for all key positions. Every NPA facility shall have an occupant emergency plan that is exercised annually. Continuity facilities are tested at least once a year. NPA maintains a continuity of operations plan to sustain essential functions during disruptions.
+
+4. RESPONSIBILITIES
+
+The Director of Emergency Management (DEM) oversees implementation of this issuance and monitors compliance across NPA. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance.
+
+5. PROCEDURES
+
+Each office reviews its essential functions and updates them after every exercise. After-action reports are completed within 45 days of an exercise or real event. Emergency notifications are sent by text, email, and voice within 15 minutes of a decision. The DEM activates the continuity plan on direction from the Administrator.
+
+REFERENCES
+
+(a) Directive 7000.01
+(b) 42 U.S.C. 5121
+(c) Instruction 7000.04

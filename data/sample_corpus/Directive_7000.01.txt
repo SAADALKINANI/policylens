@@ -1,0 +1,25 @@
+ID: Directive 7000.01
+NPA Directive 7000.01, Emergency Management and Continuity
+
+1. PURPOSE
+
+This Directive establishes policy and assigns responsibilities for the emergency management and continuity program of the National Public Administration (NPA) in accordance with 42 U.S.C. 5121, Executive Order 12656. It is implemented by Instruction 7000.02, Instruction 7000.03, Instruction 7000.04 and Manual 7000.10.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the National Public Administration (NPA), including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Every NPA facility shall have an occupant emergency plan that is exercised annually. Essential functions must be resumed within 12 hours of a continuity activation. Employees must keep their emergency contact information current in the notification system. Continuity facilities are tested at least once a year. Orders of succession and delegations of authority are maintained for all key positions. NPA maintains a continuity of operations plan to sustain essential functions during disruptions.
+
+4. RESPONSIBILITIES
+
+The Director of Emergency Management (DEM) oversees implementation of this issuance and monitors compliance across NPA. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance. The Office of Inspector General (OIG) may audit compliance with this issuance.
+
+REFERENCES
+
+(a) 42 U.S.C. 5121
+(b) Executive Order 12656
+(c) Directive 8000.01
+(d) Directive 3000.01

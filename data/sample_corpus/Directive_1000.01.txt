@@ -1,0 +1,26 @@
+ID: Directive 1000.01
+NPA Directive 1000.01, Cybersecurity
+
+1. PURPOSE
+
+This Directive establishes policy and assigns responsibilities for the cybersecurity program of the National Public Administration (NPA) in accordance with 44 U.S.C. 3551, OMB M-22-09, Executive Order 14028. It is implemented by Instruction 1000.02, Instruction 1000.03, Instruction 1000.04, Instruction 1000.05 and Manual 1000.10.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the National Public Administration (NPA), including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+System owners shall categorize each system by the potential impact of a loss of confidentiality, integrity, or availability. Critical vulnerabilities shall be remediated within 15 calendar days of publication. Continuous monitoring data will be reviewed monthly by the Authorizing Official (AO). Privileged access must be granted on a least-privilege basis and reviewed every quarter. All NPA information systems must receive an authorization to operate before processing agency data. Security incidents must be reported to the Security Operations Center (SOC) within one hour of discovery.
+
+4. RESPONSIBILITIES
+
+The Chief Information Security Officer (CISO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance. The Office of Inspector General (OIG) may audit compliance with this issuance.
+
+REFERENCES
+
+(a) 44 U.S.C. 3551
+(b) OMB M-22-09
+(c) Executive Order 14028
+(d) Directive 7000.01
+(e) Directive 6000.01

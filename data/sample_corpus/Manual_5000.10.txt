@@ -1,0 +1,28 @@
+ID: Manual 5000.10
+NPA Manual 5000.10, Acquisition Procedures Manual
+
+1. PURPOSE
+
+This Manual provides step-by-step procedures for carrying out Directive 5000.01 and the related instructions Instruction 5000.02, Instruction 5000.03.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Market research shall be conducted before issuing any solicitation. Past performance information is recorded for every contract that exceeds the reporting threshold. Acquisition plans are required for all procurements above the simplified acquisition threshold.
+
+4. RESPONSIBILITIES
+
+The Senior Procurement Executive (SPE) oversees implementation of this issuance and monitors compliance across NPA. The Office of Inspector General (OIG) may audit compliance with this issuance. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance.
+
+5. PROCEDURES
+
+Contract files are closed out within the timeframes set by regulation. The technical evaluation panel rates each proposal against the stated evaluation factors. The Contracting Officer (CO) negotiates terms and awards the contract. The program office prepares requirements documents and an independent government cost estimate. CORs review deliverables and certify invoices for payment.
+
+REFERENCES
+
+(a) Directive 5000.01
+(b) Instruction 5000.02
+(c) Instruction 5000.03

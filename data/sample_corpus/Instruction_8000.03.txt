@@ -1,0 +1,27 @@
+ID: Instruction 8000.03
+NPA Instruction 8000.03, Open Data
+
+1. PURPOSE
+
+This Instruction implements Directive 8000.01 by establishing procedures for open data. Questions about this Instruction should be directed to the CDO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Data quality standards apply to all data used for decision making and AI model training. Datasets used to train AI models must be documented, including their provenance and known limitations. Data sharing agreements are required before exchanging data with external organizations. A Data Governance Body chaired by the Chief Data Officer sets agency data standards.
+
+4. RESPONSIBILITIES
+
+The Chief Data Officer (CDO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance.
+
+5. PROCEDURES
+
+Data quality issues are logged and tracked to resolution by the responsible steward. The CDO publishes an annual open data plan. Requests to share data externally are reviewed by the CDO, the Privacy Office, and the OGC. Data stewards record metadata for each dataset in the catalog within 30 days of creation.
+
+REFERENCES
+
+(a) Directive 8000.01
+(b) OMB M-19-23

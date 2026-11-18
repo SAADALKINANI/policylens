@@ -1,0 +1,28 @@
+ID: Manual 4000.10
+NPA Manual 4000.10, Privacy Program Procedures Manual
+
+1. PURPOSE
+
+This Manual provides step-by-step procedures for carrying out Directive 4000.01 and the related instructions Instruction 4000.02, Instruction 4000.03.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Suspected breaches of PII must be reported within one hour to the Privacy Office. Social Security numbers may only be collected where required by law. NPA collects personally identifiable information only when it is relevant and necessary to a mission purpose.
+
+4. RESPONSIBILITIES
+
+The Senior Agency Official for Privacy (SAOP) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Office of Inspector General (OIG) may audit compliance with this issuance.
+
+5. PROCEDURES
+
+The program office drafts the privacy impact assessment with support from the Privacy Office. The Breach Response Team evaluates the risk of harm and determines whether notification is required. Privacy Act requests are logged and answered within statutory timeframes. The SAOP signs each completed privacy impact assessment before it is published.
+
+REFERENCES
+
+(a) Directive 4000.01
+(b) Instruction 4000.02
+(c) Instruction 4000.03

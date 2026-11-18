@@ -1,0 +1,28 @@
+ID: Instruction 6000.04
+NPA Instruction 6000.04, Alternative Work Schedules
+
+1. PURPOSE
+
+This Instruction implements Directive 6000.01 by establishing procedures for alternative work schedules. Questions about this Instruction should be directed to the CHCO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Employees who telework must be available during core hours and protect government information at home. Remote work agreements change an employee's official duty station and require approval by the CHCO. Supervisors may terminate a telework agreement for documented performance or conduct reasons. Telework eligibility is based on the duties of the position, not on the individual employee.
+
+4. RESPONSIBILITIES
+
+The Chief Human Capital Officer (CHCO) oversees implementation of this issuance and monitors compliance across NPA. The Office of Inspector General (OIG) may audit compliance with this issuance. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance.
+
+5. PROCEDURES
+
+The Office of Human Capital reports telework participation data to the Office of Personnel Management. Supervisors review telework agreements at least annually. The employee completes telework training and submits a telework agreement to the supervisor. Requests for remote work are routed through the CHCO with a cost analysis.
+
+REFERENCES
+
+(a) Directive 6000.01
+(b) 5 U.S.C. 6502
+(c) Instruction 6000.02

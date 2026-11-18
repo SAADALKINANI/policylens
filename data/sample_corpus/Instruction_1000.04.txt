@@ -1,0 +1,28 @@
+ID: Instruction 1000.04
+NPA Instruction 1000.04, Identity and Access Management
+
+1. PURPOSE
+
+This Instruction implements Directive 1000.01 by establishing procedures for identity and access management. Questions about this Instruction should be directed to the CISO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Contractors operating systems on behalf of NPA must meet the same security requirements as agency staff. Zero trust architecture principles guide the design of all new network services. All NPA information systems must receive an authorization to operate before processing agency data. Multifactor authentication is required for every user account with access to agency networks.
+
+4. RESPONSIBILITIES
+
+The Chief Information Security Officer (CISO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance.
+
+5. PROCEDURES
+
+The system owner prepares a security plan and submits it to the Authorizing Official. The SOC triages each reported incident, assigns a severity level, and notifies affected offices. Account managers disable inactive accounts after 45 days without use. Access reviews are recorded and retained for audit purposes.
+
+REFERENCES
+
+(a) Directive 1000.01
+(b) OMB M-22-09
+(c) Instruction 1000.03

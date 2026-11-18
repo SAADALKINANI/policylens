@@ -1,0 +1,28 @@
+ID: Instruction 8000.02
+NPA Instruction 8000.02, Data Governance
+
+1. PURPOSE
+
+This Instruction implements Directive 8000.01 by establishing procedures for data governance. Questions about this Instruction should be directed to the CDO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Data quality standards apply to all data used for decision making and AI model training. NPA data is a strategic asset and shall be managed throughout its lifecycle. Data sharing agreements are required before exchanging data with external organizations. A Data Governance Body chaired by the Chief Data Officer sets agency data standards.
+
+4. RESPONSIBILITIES
+
+The Chief Data Officer (CDO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance.
+
+5. PROCEDURES
+
+The CDO publishes an annual open data plan. Data stewards record metadata for each dataset in the catalog within 30 days of creation. Data quality issues are logged and tracked to resolution by the responsible steward. Requests to share data externally are reviewed by the CDO, the Privacy Office, and the OGC.
+
+REFERENCES
+
+(a) Directive 8000.01
+(b) 44 U.S.C. 3520
+(c) Instruction 8000.04

@@ -1,0 +1,26 @@
+ID: Directive 8000.01
+NPA Directive 8000.01, Data Management
+
+1. PURPOSE
+
+This Directive establishes policy and assigns responsibilities for the data management program of the National Public Administration (NPA) in accordance with Public Law 115-435, 44 U.S.C. 3520, OMB M-19-23. It is implemented by Instruction 8000.02, Instruction 8000.03, Instruction 8000.04, Instruction 8000.05 and Manual 8000.10.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the National Public Administration (NPA), including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Public data assets are published in open, machine-readable formats unless an exemption applies. Data sharing agreements are required before exchanging data with external organizations. Data quality standards apply to all data used for decision making and AI model training. NPA data is a strategic asset and shall be managed throughout its lifecycle. Every dataset must have a designated data steward and be registered in the enterprise data catalog. Datasets used to train AI models must be documented, including their provenance and known limitations.
+
+4. RESPONSIBILITIES
+
+The Chief Data Officer (CDO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance.
+
+REFERENCES
+
+(a) Public Law 115-435
+(b) 44 U.S.C. 3520
+(c) OMB M-19-23
+(d) Directive 2000.01
+(e) Directive 3000.01

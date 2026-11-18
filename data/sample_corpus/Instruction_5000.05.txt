@@ -1,0 +1,28 @@
+ID: Instruction 5000.05
+NPA Instruction 5000.05, Acquisition of AI
+
+1. PURPOSE
+
+This Instruction implements Directive 5000.01 by establishing procedures for acquisition of ai. Questions about this Instruction should be directed to the SPE office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Conflicts of interest must be disclosed by all members of a technical evaluation panel. Acquisition plans are required for all procurements above the simplified acquisition threshold. Contracting Officer Representatives (COR) must be certified before being appointed. Past performance information is recorded for every contract that exceeds the reporting threshold.
+
+4. RESPONSIBILITIES
+
+The Senior Procurement Executive (SPE) oversees implementation of this issuance and monitors compliance across NPA. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance.
+
+5. PROCEDURES
+
+The technical evaluation panel rates each proposal against the stated evaluation factors. CORs review deliverables and certify invoices for payment. Contract files are closed out within the timeframes set by regulation. The program office prepares requirements documents and an independent government cost estimate.
+
+REFERENCES
+
+(a) Directive 5000.01
+(b) 41 U.S.C. 1702
+(c) Instruction 5000.04

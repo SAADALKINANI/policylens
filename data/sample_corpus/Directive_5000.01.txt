@@ -1,0 +1,26 @@
+ID: Directive 5000.01
+NPA Directive 5000.01, Acquisition
+
+1. PURPOSE
+
+This Directive establishes policy and assigns responsibilities for the acquisition program of the National Public Administration (NPA) in accordance with 41 U.S.C. 1702, 48 CFR 1.101, OMB M-25-22. It is implemented by Instruction 5000.02, Instruction 5000.03, Instruction 5000.04, Instruction 5000.05 and Manual 5000.10.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the National Public Administration (NPA), including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Contracts for AI systems must address data rights, model documentation, and vendor lock-in. Contracting Officer Representatives (COR) must be certified before being appointed. Conflicts of interest must be disclosed by all members of a technical evaluation panel. Past performance information is recorded for every contract that exceeds the reporting threshold. Market research shall be conducted before issuing any solicitation. Source selection decisions must be documented and based only on the evaluation criteria in the solicitation.
+
+4. RESPONSIBILITIES
+
+The Senior Procurement Executive (SPE) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance.
+
+REFERENCES
+
+(a) 41 U.S.C. 1702
+(b) 48 CFR 1.101
+(c) OMB M-25-22
+(d) Directive 3000.01
+(e) Directive 2000.01

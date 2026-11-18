@@ -1,0 +1,28 @@
+ID: Instruction 5000.02
+NPA Instruction 5000.02, Acquisition Planning
+
+1. PURPOSE
+
+This Instruction implements Directive 5000.01 by establishing procedures for acquisition planning. Questions about this Instruction should be directed to the SPE office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Source selection decisions must be documented and based only on the evaluation criteria in the solicitation. Past performance information is recorded for every contract that exceeds the reporting threshold. Contracting Officer Representatives (COR) must be certified before being appointed. Market research shall be conducted before issuing any solicitation.
+
+4. RESPONSIBILITIES
+
+The Senior Procurement Executive (SPE) oversees implementation of this issuance and monitors compliance across NPA. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance. The Office of Inspector General (OIG) may audit compliance with this issuance.
+
+5. PROCEDURES
+
+The technical evaluation panel rates each proposal against the stated evaluation factors. Contract files are closed out within the timeframes set by regulation. The Contracting Officer (CO) negotiates terms and awards the contract. The program office prepares requirements documents and an independent government cost estimate.
+
+REFERENCES
+
+(a) Directive 5000.01
+(b) OMB M-25-22
+(c) Instruction 5000.03

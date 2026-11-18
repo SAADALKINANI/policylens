@@ -1,0 +1,28 @@
+ID: Instruction 3000.03
+NPA Instruction 3000.03, High-Impact AI Risk Management
+
+1. PURPOSE
+
+This Instruction implements Directive 3000.01 by establishing procedures for high-impact ai risk management. Questions about this Instruction should be directed to the CAIO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Sensitive or personally identifiable information must not be entered into unapproved generative AI services. High-impact AI requires pre-deployment testing, an impact assessment, and ongoing monitoring. Individuals affected by AI-enabled decisions shall have access to timely human review and an appeal process. Model performance must be monitored for drift and for disparities across demographic groups.
+
+4. RESPONSIBILITIES
+
+The Chief AI Officer (CAIO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance. The Office of Inspector General (OIG) may audit compliance with this issuance.
+
+5. PROCEDURES
+
+Project teams document testing results and residual risks in the AI impact assessment. The CAIO screens each intake against the categories of AI presumed to be high-impact. Operators complete training on interpreting model outputs before receiving system access. The AI Governance Board meets monthly and records its decisions in the governance register.
+
+REFERENCES
+
+(a) Directive 3000.01
+(b) OMB M-25-21
+(c) Instruction 3000.05

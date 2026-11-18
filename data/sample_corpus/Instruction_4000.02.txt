@@ -1,0 +1,28 @@
+ID: Instruction 4000.02
+NPA Instruction 4000.02, Privacy Impact Assessments
+
+1. PURPOSE
+
+This Instruction implements Directive 4000.01 by establishing procedures for privacy impact assessments. Questions about this Instruction should be directed to the SAOP office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Suspected breaches of PII must be reported within one hour to the Privacy Office. Individuals have the right to request access to and amendment of their records. NPA collects personally identifiable information only when it is relevant and necessary to a mission purpose. Social Security numbers may only be collected where required by law.
+
+4. RESPONSIBILITIES
+
+The Senior Agency Official for Privacy (SAOP) oversees implementation of this issuance and monitors compliance across NPA. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance.
+
+5. PROCEDURES
+
+Privacy Act requests are logged and answered within statutory timeframes. The Breach Response Team evaluates the risk of harm and determines whether notification is required. The SAOP signs each completed privacy impact assessment before it is published. The program office drafts the privacy impact assessment with support from the Privacy Office.
+
+REFERENCES
+
+(a) Directive 4000.01
+(b) OMB M-17-12
+(c) Instruction 4000.04

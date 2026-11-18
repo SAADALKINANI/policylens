@@ -1,0 +1,28 @@
+ID: Instruction 7000.02
+NPA Instruction 7000.02, Continuity of Operations
+
+1. PURPOSE
+
+This Instruction implements Directive 7000.01 by establishing procedures for continuity of operations. Questions about this Instruction should be directed to the DEM office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Employees must keep their emergency contact information current in the notification system. Essential functions must be resumed within 12 hours of a continuity activation. Continuity facilities are tested at least once a year. Orders of succession and delegations of authority are maintained for all key positions.
+
+4. RESPONSIBILITIES
+
+The Director of Emergency Management (DEM) oversees implementation of this issuance and monitors compliance across NPA. The Office of Inspector General (OIG) may audit compliance with this issuance. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance.
+
+5. PROCEDURES
+
+Each office reviews its essential functions and updates them after every exercise. The DEM activates the continuity plan on direction from the Administrator. After-action reports are completed within 45 days of an exercise or real event. Emergency notifications are sent by text, email, and voice within 15 minutes of a decision.
+
+REFERENCES
+
+(a) Directive 7000.01
+(b) Executive Order 12656
+(c) Instruction 7000.04

@@ -1,0 +1,28 @@
+ID: Instruction 2000.05
+NPA Instruction 2000.05, Records Disposition
+
+1. PURPOSE
+
+This Instruction implements Directive 2000.01 by establishing procedures for records disposition. Questions about this Instruction should be directed to the ARO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Records in messaging applications must be captured into an official recordkeeping system within 20 days. Departing employees must complete a records exit briefing before separation. Records schedules shall be reviewed at least every five years to reflect changes in business processes. Every NPA employee is responsible for creating and maintaining records that document agency business.
+
+4. RESPONSIBILITIES
+
+The Agency Records Officer (ARO) oversees implementation of this issuance and monitors compliance across NPA. The Office of Inspector General (OIG) may audit compliance with this issuance. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance.
+
+5. PROCEDURES
+
+The ARO coordinates proposed schedules with the Office of General Counsel (OGC). Records liaisons inventory the records held by their office each fiscal year. Disposition actions are documented on a records destruction certificate. Offices transfer eligible permanent records using the electronic transfer process.
+
+REFERENCES
+
+(a) Directive 2000.01
+(b) 44 U.S.C. 3101
+(c) Instruction 2000.03

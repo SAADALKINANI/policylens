@@ -1,0 +1,28 @@
+ID: Manual 8000.10
+NPA Manual 8000.10, Data Management Procedures Manual
+
+1. PURPOSE
+
+This Manual provides step-by-step procedures for carrying out Directive 8000.01 and the related instructions Instruction 8000.02, Instruction 8000.03.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Datasets used to train AI models must be documented, including their provenance and known limitations. Every dataset must have a designated data steward and be registered in the enterprise data catalog. Data sharing agreements are required before exchanging data with external organizations.
+
+4. RESPONSIBILITIES
+
+The Chief Data Officer (CDO) oversees implementation of this issuance and monitors compliance across NPA. The Office of Inspector General (OIG) may audit compliance with this issuance. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance.
+
+5. PROCEDURES
+
+The CDO publishes an annual open data plan. Data quality issues are logged and tracked to resolution by the responsible steward. Data stewards record metadata for each dataset in the catalog within 30 days of creation. Requests to share data externally are reviewed by the CDO, the Privacy Office, and the OGC.
+
+REFERENCES
+
+(a) Directive 8000.01
+(b) Instruction 8000.02
+(c) Instruction 8000.03

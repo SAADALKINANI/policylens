@@ -1,0 +1,28 @@
+ID: Manual 7000.10
+NPA Manual 7000.10, Emergency Management and Continuity Procedures Manual
+
+1. PURPOSE
+
+This Manual provides step-by-step procedures for carrying out Directive 7000.01 and the related instructions Instruction 7000.02, Instruction 7000.03.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Employees must keep their emergency contact information current in the notification system. Continuity facilities are tested at least once a year. Essential functions must be resumed within 12 hours of a continuity activation.
+
+4. RESPONSIBILITIES
+
+The Director of Emergency Management (DEM) oversees implementation of this issuance and monitors compliance across NPA. The Office of Inspector General (OIG) may audit compliance with this issuance. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance.
+
+5. PROCEDURES
+
+Each office reviews its essential functions and updates them after every exercise. Emergency notifications are sent by text, email, and voice within 15 minutes of a decision. The DEM activates the continuity plan on direction from the Administrator. After-action reports are completed within 45 days of an exercise or real event.
+
+REFERENCES
+
+(a) Directive 7000.01
+(b) Instruction 7000.02
+(c) Instruction 7000.03

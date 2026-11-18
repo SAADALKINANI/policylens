@@ -1,0 +1,28 @@
+ID: Manual 3000.10
+NPA Manual 3000.10, Artificial Intelligence Governance Procedures Manual
+
+1. PURPOSE
+
+This Manual provides step-by-step procedures for carrying out Directive 3000.01 and the related instructions Instruction 3000.02, Instruction 3000.03.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+AI whose output serves as a principal basis for decisions with significant effects on rights or safety is treated as high-impact. High-impact AI requires pre-deployment testing, an impact assessment, and ongoing monitoring. Staff may use approved generative AI tools for drafting but remain accountable for the accuracy of any output.
+
+4. RESPONSIBILITIES
+
+The Chief AI Officer (CAIO) oversees implementation of this issuance and monitors compliance across NPA. The Office of Inspector General (OIG) may audit compliance with this issuance. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance.
+
+5. PROCEDURES
+
+The AI Governance Board meets monthly and records its decisions in the governance register. The CAIO screens each intake against the categories of AI presumed to be high-impact. Operators complete training on interpreting model outputs before receiving system access. Project teams document testing results and residual risks in the AI impact assessment. Program offices submit an AI intake form to the CAIO before acquiring or developing an AI capability.
+
+REFERENCES
+
+(a) Directive 3000.01
+(b) Instruction 3000.02
+(c) Instruction 3000.03

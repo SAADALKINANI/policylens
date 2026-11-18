@@ -1,0 +1,26 @@
+ID: Directive 4000.01
+NPA Directive 4000.01, Privacy Program
+
+1. PURPOSE
+
+This Directive establishes policy and assigns responsibilities for the privacy program program of the National Public Administration (NPA) in accordance with 5 U.S.C. 552a, Public Law 107-347, OMB M-17-12. It is implemented by Instruction 4000.02, Instruction 4000.03, Instruction 4000.04 and Manual 4000.10.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the National Public Administration (NPA), including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+A privacy impact assessment is required before developing or procuring any system that collects PII. Suspected breaches of PII must be reported within one hour to the Privacy Office. Social Security numbers may only be collected where required by law. Systems of records require a published system of records notice before operation. Privacy controls are assessed together with security controls during system authorization. NPA collects personally identifiable information only when it is relevant and necessary to a mission purpose.
+
+4. RESPONSIBILITIES
+
+The Senior Agency Official for Privacy (SAOP) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance.
+
+REFERENCES
+
+(a) 5 U.S.C. 552a
+(b) Public Law 107-347
+(c) OMB M-17-12
+(d) Directive 3000.01
+(e) Directive 1000.01

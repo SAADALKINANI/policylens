@@ -1,0 +1,28 @@
+ID: Instruction 1000.02
+NPA Instruction 1000.02, Risk Management Framework
+
+1. PURPOSE
+
+This Instruction implements Directive 1000.01 by establishing procedures for risk management framework. Questions about this Instruction should be directed to the CISO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Contractors operating systems on behalf of NPA must meet the same security requirements as agency staff. System owners shall categorize each system by the potential impact of a loss of confidentiality, integrity, or availability. Encryption of data at rest and in transit is mandatory for systems handling sensitive information. Zero trust architecture principles guide the design of all new network services.
+
+4. RESPONSIBILITIES
+
+The Chief Information Security Officer (CISO) oversees implementation of this issuance and monitors compliance across NPA. The Office of Inspector General (OIG) may audit compliance with this issuance. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance.
+
+5. PROCEDURES
+
+The SOC triages each reported incident, assigns a severity level, and notifies affected offices. Vulnerability scans run weekly and results are uploaded to the agency dashboard. After an incident is contained, the response team documents lessons learned within 30 days. Access reviews are recorded and retained for audit purposes.
+
+REFERENCES
+
+(a) Directive 1000.01
+(b) Executive Order 14028
+(c) Instruction 1000.05

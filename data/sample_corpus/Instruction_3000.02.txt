@@ -1,0 +1,28 @@
+ID: Instruction 3000.02
+NPA Instruction 3000.02, AI Use Case Inventory
+
+1. PURPOSE
+
+This Instruction implements Directive 3000.01 by establishing procedures for ai use case inventory. Questions about this Instruction should be directed to the CAIO office.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Each AI use case must be recorded in the agency AI use case inventory and updated annually. High-impact AI requires pre-deployment testing, an impact assessment, and ongoing monitoring. AI whose output serves as a principal basis for decisions with significant effects on rights or safety is treated as high-impact. The Chief AI Officer coordinates the use of artificial intelligence across NPA.
+
+4. RESPONSIBILITIES
+
+The Chief AI Officer (CAIO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance.
+
+5. PROCEDURES
+
+Project teams document testing results and residual risks in the AI impact assessment. The CAIO screens each intake against the categories of AI presumed to be high-impact. Program offices submit an AI intake form to the CAIO before acquiring or developing an AI capability. Operators complete training on interpreting model outputs before receiving system access.
+
+REFERENCES
+
+(a) Directive 3000.01
+(b) OMB M-25-21
+(c) Instruction 3000.05

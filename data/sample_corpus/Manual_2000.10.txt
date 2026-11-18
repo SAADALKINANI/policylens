@@ -1,0 +1,28 @@
+ID: Manual 2000.10
+NPA Manual 2000.10, Records Management Procedures Manual
+
+1. PURPOSE
+
+This Manual provides step-by-step procedures for carrying out Directive 2000.01 and the related instructions Instruction 2000.02, Instruction 2000.03.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the NPA, including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Departing employees must complete a records exit briefing before separation. Unauthorized removal or destruction of federal records must be reported to the Agency Records Officer. Permanent records are transferred to the National Archives when they reach the end of their agency retention period.
+
+4. RESPONSIBILITIES
+
+The Agency Records Officer (ARO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Financial Officer (CFO) identifies resources needed to carry out this issuance. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance.
+
+5. PROCEDURES
+
+Records liaisons inventory the records held by their office each fiscal year. Disposition actions are documented on a records destruction certificate. Supervisors confirm that departing staff have transferred records to a successor custodian. Offices transfer eligible permanent records using the electronic transfer process. The ARO coordinates proposed schedules with the Office of General Counsel (OGC).
+
+REFERENCES
+
+(a) Directive 2000.01
+(b) Instruction 2000.02
+(c) Instruction 2000.03

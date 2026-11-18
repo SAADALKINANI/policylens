@@ -1,0 +1,26 @@
+ID: Directive 3000.01
+NPA Directive 3000.01, Artificial Intelligence Governance
+
+1. PURPOSE
+
+This Directive establishes policy and assigns responsibilities for the artificial intelligence governance program of the National Public Administration (NPA) in accordance with OMB M-25-21, Executive Order 13960, Public Law 117-263. It is implemented by Instruction 3000.02, Instruction 3000.03, Instruction 3000.04, Instruction 3000.05 and Manual 3000.10.
+
+2. APPLICABILITY
+
+This issuance applies to all organizational elements of the National Public Administration (NPA), including employees, contractors, and detailees performing work on behalf of the agency.
+
+3. POLICY
+
+Each AI use case must be recorded in the agency AI use case inventory and updated annually. Staff may use approved generative AI tools for drafting but remain accountable for the accuracy of any output. The Chief AI Officer coordinates the use of artificial intelligence across NPA. Individuals affected by AI-enabled decisions shall have access to timely human review and an appeal process. Sensitive or personally identifiable information must not be entered into unapproved generative AI services. An AI Governance Board reviews high-impact determinations and waivers.
+
+4. RESPONSIBILITIES
+
+The Chief AI Officer (CAIO) oversees implementation of this issuance and monitors compliance across NPA. The Chief Information Officer (CIO) ensures information technology supports the requirements of this issuance. The Office of General Counsel (OGC) provides legal advice on the interpretation of this issuance.
+
+REFERENCES
+
+(a) OMB M-25-21
+(b) Executive Order 13960
+(c) Public Law 117-263
+(d) Directive 5000.01
+(e) Directive 1000.01
